@@ -1,0 +1,2 @@
+Strategy,S_win,L_win,trans,P/L,Winning,P/L,Loosing,P/L
+Strategy_1,14,50,16,-7.762557077625573,7,26.066371474573877,9,9.62876779173734
